@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# A COMPLETE BACKEND AND FRONTEND E-COMMERCE UI APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## REACT, REACT JS, JAVASCRIPT , CSS
 
 In the project directory, you can run:
 
